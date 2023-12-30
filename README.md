@@ -1,2 +1,2 @@
-# DataProj
-Projects and exploration of Data
+## DataProj
+Making projects and discovering cool things to do with data.
